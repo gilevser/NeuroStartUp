@@ -1,3 +1,3 @@
 # Hello, world!
 
-I study Netology
+I study in  Netology 09.12.24
